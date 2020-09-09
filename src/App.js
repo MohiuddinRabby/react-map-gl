@@ -6,7 +6,7 @@ import icon from "./img/icon.svg";
 import key from "./key";
 function App() {
   const [viewPort, setViewport] = useState({
-    width: "90vw",
+    width: "99vw",
     height: "80vh",
     latitude: 23.7639342,
     longitude: 90.3987141,
